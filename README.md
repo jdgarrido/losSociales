@@ -6,8 +6,8 @@ Plugin básico para Wordpress que agrega 3 botones sociales a los contenidos cua
 Instalación
 ===========
 
-1.- Descargar el Plugin :)
-2.- Copiar en la carpeta ~/wp-content/plugins/
-3.- Ingresar al administrador de Wordpress y Activar el Plugin
-4.- Ingresar al menú Plugins > Configuración losSociales y activar los botones que deseamos desplegar
-5.- Compartir tus páginas o post :)
+* Descargar el Plugin :)
+* Copiar en la carpeta ~/wp-content/plugins/
+* Ingresar al administrador de Wordpress y Activar el Plugin
+* Ingresar al menú Plugins > Configuración losSociales y activar los botones que deseamos desplegar
+* Compartir tus páginas o post :)
