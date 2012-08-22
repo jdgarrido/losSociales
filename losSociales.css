@@ -1,0 +1,4 @@
+.clear { clear: both; }
+.losSociales { background-color: #FFF; }
+.losSociales ul { list-style: none; }
+.losSociales ul li{ float: left; padding: 0px 20px }
